@@ -100,7 +100,7 @@ enum Constants {
     }
 
     enum NetworkKeys {
-        static let EDGE_ENDPOINT = "https://edge.adobedc.net/ee/v1"
+        static let EDGE_ENDPOINT = "https://edge-int.adobedc.net/ee/v1"
         static let REQUEST_PARAM_CONFIG_ID = "configId"
         static let REQUEST_PARAM_REQUEST_ID = "requestId"
         static let DEFAULT_CONNECT_TIMEOUT: TimeInterval = 5
